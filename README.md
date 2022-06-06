@@ -32,4 +32,4 @@ Anyone who knows the stock market knows that no technique is perfect and the mar
 Now, about this project, I have created a simulation of Automated Trade for the duration of 30 days starting from the given date. According to the MACD stratergy, the recommendation to buy,sell or hold the stock will be generated for the particular date. You just have to enter the buying or selling qty and the account number generated. 
 I've tried to keep my code as simple as possible. Hope you will easily understand everything from it.
 
-@shyamal
+
